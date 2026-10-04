@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <defs><clipPath id="f"><circle cx="100" cy="100" r="50"/></clipPath></defs>
+  <polygon points="166.5,127.6 127.6,166.5 72.4,166.5 33.5,127.6 33.5,72.4 72.4,33.5 127.6,33.5 166.5,72.4" fill="#AEB7C2" stroke="#2B2A3A" stroke-width="4" stroke-linejoin="round"/>
+  <g stroke="#7F8B98" stroke-width="2.5" stroke-linecap="round">
+    <path d="M152 100h14M100 152v14M48 100H34M100 48V34M136.8 136.8l9.9 9.9M63.2 136.8l-9.9 9.9M63.2 63.2l-9.9-9.9M136.8 63.2l9.9-9.9"/>
+    <path d="M156 116l8 3M116 156l3 8M84 156l-3 8M44 116l-8 3M44 84l-8-3M84 44l-3-8M116 44l3-8M156 84l8-3"/>
+  </g>
+  <g fill="#8C97A4" stroke="#2B2A3A" stroke-width="3.5" stroke-linejoin="round">
+    <rect x="155.5" y="116.6" width="22" height="22" rx="5"/><rect x="116.6" y="155.5" width="22" height="22" rx="5"/>
+    <rect x="61.4" y="155.5" width="22" height="22" rx="5"/><rect x="22.5" y="116.6" width="22" height="22" rx="5"/>
+    <rect x="22.5" y="61.4" width="22" height="22" rx="5"/><rect x="61.4" y="22.5" width="22" height="22" rx="5"/>
+    <rect x="116.6" y="22.5" width="22" height="22" rx="5"/><rect x="155.5" y="61.4" width="22" height="22" rx="5"/>
+  </g>
+  <circle cx="127.6" cy="166.5" r="11" fill="rgba(255,213,74,.45)"/><circle cx="127.6" cy="166.5" r="4.5" fill="#FFD54A" stroke="#2B2A3A" stroke-width="2"/>
+  <circle cx="166.5" cy="72.4" r="11" fill="rgba(255,213,74,.45)"/><circle cx="166.5" cy="72.4" r="4.5" fill="#FFD54A" stroke="#2B2A3A" stroke-width="2"/>
+  <path d="M33.5 72.4V40" stroke="#2B2A3A" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M33.5 40l24 7-24 8z" fill="#E5484D" stroke="#2B2A3A" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="100" cy="100" r="50" fill="#9A7350" stroke="#2B2A3A" stroke-width="3.5"/>
+  <g clip-path="url(#f)" stroke="#7A5A3F" stroke-width="2">
+    <path d="M40 64h120M40 78h120M40 92h120M40 106h120M40 120h120M40 134h120"/>
+    <path d="M78 64v14M118 78v14M66 92v14M130 106v14M90 120v14"/>
+  </g>
+  <rect x="62" y="118" width="4" height="9" rx="1.5" fill="#E0B04A" stroke="#2B2A3A" stroke-width="1.5" transform="rotate(-30 64 122)"/>
+  <rect x="72" y="128" width="4" height="9" rx="1.5" fill="#E0B04A" stroke="#2B2A3A" stroke-width="1.5" transform="rotate(50 74 132)"/>
+  <rect x="58" y="104" width="4" height="9" rx="1.5" fill="#E0B04A" stroke="#2B2A3A" stroke-width="1.5" transform="rotate(10 60 108)"/>
+  <circle cx="100" cy="100" r="37" fill="#4E5765" stroke="#2B2A3A" stroke-width="3.5"/>
+  <g fill="#9AA4B1">
+    <circle cx="100" cy="68" r="2.5"/><circle cx="132" cy="100" r="2.5"/><circle cx="100" cy="132" r="2.5"/><circle cx="68" cy="100" r="2.5"/>
+    <circle cx="122.6" cy="77.4" r="2.5"/><circle cx="122.6" cy="122.6" r="2.5"/><circle cx="77.4" cy="122.6" r="2.5"/><circle cx="77.4" cy="77.4" r="2.5"/>
+  </g>
+</svg>
